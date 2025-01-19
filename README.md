@@ -16,6 +16,7 @@
   <a href="https://circleci.com/gh/facebook/react-native">
     <img src="https://circleci.com/gh/facebook/react-native.svg?style=shield" alt="Current CircleCI build status." />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Freact-native?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Freact-native.svg?type=shield"/></a>
   <a href="https://www.npmjs.org/package/react-native">
     <img src="https://img.shields.io/npm/v/react-native?color=brightgreen&label=npm%20package" alt="Current npm package version." />
   </a>
@@ -53,6 +54,9 @@ React Native is developed and supported by many companies and individual core co
 [r]: https://react.dev/
 [p]: https://reactnative.dev/docs/out-of-tree-platforms
 [e]: https://github.com/facebook/react-native/blob/HEAD/ECOSYSTEM.md
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Freact-native.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Freact-native?ref=badge_large)
 
 ## Contents
 
